@@ -1,4 +1,4 @@
-const API_URL ="http://localhost:5000"
+const API_URL ="https://smart-chair-dashboard.onrender.com"
 
 async function handleResponse(res) {
   const data = await res.json()
