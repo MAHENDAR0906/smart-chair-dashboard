@@ -6,19 +6,6 @@ AI-enabled Smart Ergonomic Chair developed to monitor employee posture, well-bei
 
 Patent Application No.: 202641064060
 
----
-## Features
-
-- Posture Monitoring
-- Productivity Analysis
-- RFID Authentication
-- Heart Rate Monitoring
-- Temperature Monitoring
-- Dashboard Analytics
-- Hydration Reminder
-- Adaptive Lumbar Support
-
----
 
 ## Technologies
 
